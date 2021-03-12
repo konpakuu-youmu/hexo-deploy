@@ -1,21 +1,15 @@
 ![Hexo Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/hexo.svg)
 
-# Hexo Example
+# Hexo样例
 
-This directory is a brief example of a [Hexo](https://hexo.io/) site that can be deployed with Vercel and zero configuration.
+一个 [Hexo](https://hexo.io/) 的样例，以便于在CloudFlare Pages部署
 
-## Deploy Your Own
+## 自己部署
 
-Deploy your own Hexo project with Vercel.
+基于Vercel Examples修改
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/examples/hexo)
 
 _Live Example: https://hexo.now-examples.now.sh_
 
-### How We Created This Example
-
-To get started with Hexo for deployment with Vercel, you can use the [Hexo CLI](https://hexo.io/docs/index.html#Installation) to initialize the project:
-
-```shell
-$ hexo init project-name
-```
+### 在CloudFlare Pages部署
